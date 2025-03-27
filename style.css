@@ -1,0 +1,23 @@
+body{
+    background-color: #FFF0F5;
+}
+
+header{
+    border-top: 0px;
+    background-color: #FFABAB;
+    padding: 0;
+    margin: 0;
+}
+
+.title{
+    color: #D14D72;
+    text-align: center;
+    font-size: 4em;
+    padding: 0;
+    margin: 0;
+    }
+
+*{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+}
